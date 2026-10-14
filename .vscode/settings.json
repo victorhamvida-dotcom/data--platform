@@ -1,0 +1,7 @@
+{
+    "powerquery.client.additionalSymbolsDirectories": [
+        "c:/Users/HP/OneDrive/Desktop/tech 365 work github/.vscode/excel-pq-symbols",
+        "c:/Users/HP/Desktop/tech 365 work github/.vscode/excel-pq-symbols"
+    ],
+    "DockerRun.DisableDockerrc": true
+}
